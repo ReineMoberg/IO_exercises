@@ -1,0 +1,13 @@
+[ {
+  "ownerId" : "b141af5e-7514-41dd-a27c-0152d3023123",
+  "name" : "Reine Moberg",
+  "birthDate" : "1969-11-26"
+}, {
+  "ownerId" : "fdcf2079-4e6f-4ba8-a230-d11da0b28da0",
+  "name" : "Anna Andersson",
+  "birthDate" : "1973-03-07"
+}, {
+  "ownerId" : "f8810b3c-c5fd-4143-ac26-b75bdf9975d1",
+  "name" : "Per Henriksson",
+  "birthDate" : "1982-01-23"
+} ]

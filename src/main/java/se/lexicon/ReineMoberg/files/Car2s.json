@@ -1,0 +1,34 @@
+[ {
+  "carId" : "1a764ea1-a39c-4eee-91b3-57932d3f7ed2",
+  "regNumber" : "GTR 564",
+  "brand" : "Volvo",
+  "model" : "C30",
+  "owner" : {
+    "ownerId" : "b141af5e-7514-41dd-a27c-0152d3023123",
+    "name" : "Reine Moberg",
+    "birthDate" : "1969-11-26"
+  },
+  "regDate" : "2010-06-10"
+}, {
+  "carId" : "c7d84626-7618-4739-87e0-689074c2aa85",
+  "regNumber" : "DEW 397",
+  "brand" : "Ford",
+  "model" : "Mondeo",
+  "owner" : {
+    "ownerId" : "fdcf2079-4e6f-4ba8-a230-d11da0b28da0",
+    "name" : "Anna Andersson",
+    "birthDate" : "1973-03-07"
+  },
+  "regDate" : "2015-08-30"
+}, {
+  "carId" : "46d0c74b-cf08-4c07-a524-88fb21d71241",
+  "regNumber" : "ABC 123",
+  "brand" : "Saab",
+  "model" : "900",
+  "owner" : {
+    "ownerId" : "f8810b3c-c5fd-4143-ac26-b75bdf9975d1",
+    "name" : "Per Henriksson",
+    "birthDate" : "1982-01-23"
+  },
+  "regDate" : "2005-12-01"
+} ]
